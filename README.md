@@ -1,5 +1,9 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nyashuka)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+<img align="left" width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=uurha&show_icons=true&theme=dark&locale=en&layout=compact" alt="uurha" />
+&nbsp;
+<img align="left" width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nyashuka&show_icons=true&theme=dark&locale=en" alt="nyashuka" />
+</p>
 <!--
 **Nyashuka/Nyashuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
