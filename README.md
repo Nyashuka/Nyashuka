@@ -5,7 +5,7 @@
 * WPF
 * WF
 * Unity
-* C++
+* C++ (Basic knowledge)
 ---
 ## Stats
 <p>
