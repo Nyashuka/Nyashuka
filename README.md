@@ -1,6 +1,6 @@
-# Hi there 👋
+# Hi There 👋
 ---
-## Programming languages and Frameworks
+## My Programming Languages and Frameworks Stack
 * C#
 * WPF
 * WF
