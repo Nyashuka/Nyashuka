@@ -1,6 +1,8 @@
-<img align="right" width="38%" src="https://i.imgur.com/VxANS89.jpg"/>
+
 
 # Hi There 
+
+<img width="28%" src="https://i.imgur.com/VxANS89.jpg"/>
 
 ## Stats
 <p align="left" >  
