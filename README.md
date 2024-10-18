@@ -1,12 +1,10 @@
-# Hi There 👋
----
+# Hi There 
 
----
 ## Stats
-<p>
-<img align="left" width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=nyashuka&show_icons=true&theme=dark&locale=en&layout=compact" alt="nyashuka" />
-&nbsp;
-<img align="left" width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nyashuka&show_icons=true&theme=dark&locale=en" alt="nyashuka" />
+<p align="left" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=nyashuka&&show_icons=true&theme=radical"/>
+  </a>
 </p>
 <!--
 **Nyashuka/Nyashuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
